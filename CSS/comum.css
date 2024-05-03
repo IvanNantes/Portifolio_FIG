@@ -1,0 +1,71 @@
+body {
+    font-size: 22px;
+    background-color: rgb(19, 30, 22);
+    background-image: url(../Imagens/mapideia.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right;
+    background-size: 650px;
+    margin-top: 100px;
+}
+
+div#main {
+    width: 900px;
+    margin: 0 auto 0 auto;
+    background-color: #152519;
+    text-align: center;
+}
+div#main-text {
+    width: 830px;
+    margin: 0 auto 0 auto;
+    background-color: #152519;
+    text-align: center;
+}
+
+div#logo {
+    margin: 0 auto 0 auto;   
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+p {
+    color: beige;
+}
+div#navbar {
+    position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background-color: black;
+  background-image: linear-gradient(rgb(0, 0, 0),rgb(0, 0, 0), rgb(19, 30, 22));
+  z-index: 2;
+}
+div#navbar-content {
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    height: 60px;
+    line-height: 40px;
+    text-align: center;
+    
+  }
+a:link,
+        a:visited {
+            color: rgb(255, 255, 255);
+            padding-left: 20px;
+            padding-right: 20px;
+            text-decoration: none;
+        }
+        a:hover {
+            color: rgb(255, 255, 255);
+            padding-left: 20px;
+            padding-right: 20px;
+            text-decoration: none;
+        }
+        a:active {  
+            color: rgb(255, 255, 255);
+            padding-left: 20px;
+            padding-right: 20px;
+            text-decoration: none;
+        }
