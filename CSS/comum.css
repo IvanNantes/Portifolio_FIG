@@ -7,6 +7,7 @@ body {
     background-position: right;
     background-size: 650px;
     margin-top: 100px;
+    font-family: fantasy;
 }
 
 div#main {
@@ -14,6 +15,7 @@ div#main {
     margin: 0 auto 0 auto;
     background-color: #152519;
     text-align: center;
+    
 }
 div#main-text {
     width: 830px;
@@ -27,6 +29,13 @@ div#logo {
     width: 100%;
     text-align: center;
     margin-bottom: 50px;
+    background-image: url(../Imagens/ceu_site.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1550px;
+    
+
     
 }
 p {
